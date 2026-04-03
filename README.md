@@ -13,4 +13,5 @@ Proyek simulasi Internet of Things (IoT) untuk memantau suhu dan kelembapan ruan
 2. Buka folder proyek di Visual Studio Code.
 3. Pastikan ekstensi PlatformIO dan Wokwi Simulator sudah terinstal.
 4. Klik ikon Build (✓) di bawah PlatformIO.
+   <img width="1293" height="1034" alt="Screenshot 2026-04-03 180416" src="https://github.com/user-attachments/assets/40e57f5c-ef3b-408b-b244-a0587e1d94f3" />
 5. Buka file `diagram.json`, tekan `Ctrl+Shift+P`, lalu pilih `Wokwi: Start Simulator`.
